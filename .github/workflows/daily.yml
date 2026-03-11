@@ -11,6 +11,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -26,16 +28,12 @@ jobs:
 
       - name: Run Daily Report
         env:
-          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm start
 
       - name: Commit and Push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff --staged --quiet || git commit -m "Daily report $(date +%Y-%m-%d)"
-          # 使用token推送
-          git push -q https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:master || true
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Daily report $(date +%Y-%m-%d)"
+          file_pattern: "output/* data/*"
