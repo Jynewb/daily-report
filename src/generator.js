@@ -183,8 +183,8 @@ function generate(data, config) {
     tags
   });
 
-  // 输出目录
-  const outputDir = path.join(process.cwd(), config.output.dir);
+  // 输出目录 - 使用docs作为GitHub Pages输出
+  const outputDir = path.join(process.cwd(), 'docs');
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
