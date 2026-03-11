@@ -1,0 +1,245 @@
+{
+  "timestamp": "2026-03-11T02:16:14.577Z",
+  "news": [
+    {
+      "title": "What is Artificial Intelligence (AI)? | Google Cloud",
+      "url": "https://cloud.google.com/learn/what-is-artificial-intelligence",
+      "content": "Artificial intelligence (AI) is <strong>a set of technologies that empowers computers to learn, reason, and perform a variety of advanced tasks in ways that used to require human intelligence</strong>, such as understanding language, analyzing data, and even ...",
+      "source": "cloud.google.com"
+    },
+    {
+      "title": "人工智能",
+      "url": "https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/9180",
+      "content": "人工智能（Artificial Intelligence），英文缩写为AI。是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新技术科学。人工智能是计算机科学的一个分支，它企图了解智能的实质，并生产出一种新的能以人类智能相似的方式做出反应的智能机器，该领域的研究包括机器人、语言识别、图像识别、自然语言处理和专家系统等 [128]。",
+      "source": "baike.baidu.com"
+    },
+    {
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "content": "Artificial intelligence (AI) is <strong>technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision-making, creativity and autonomy</strong>.",
+      "source": "www.ibm.com"
+    },
+    {
+      "title": "人工智能 - 维基百科，自由的百科全书",
+      "url": "https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "content": "人工智能的研究是高度技术性和专业的，各分支领域都是深入且各不相通的，因而涉及范围极广。人工智能的研究可以分为几个技术问题。其分支领域主要集中在解决具体问题，其中之一是，如何使用各种不同的工具完成特定的应用程序。 · AI的核心问题包括建构能够跟人类相似，甚至超卓的推理、知识、计划、学习、交流、感知、移动 、移物、使用工具和操控机械的能力等。通用人工智能（AGI）目前仍然是该领域的长远目标。目前弱人工智能已经有",
+      "source": "zh.wikipedia.org"
+    },
+    {
+      "title": "什么是人工智能？ | Microsoft Azure",
+      "url": "https://azure.microsoft.com/zh-cn/resources/cloud-computing-dictionary/what-is-artificial-intelligence",
+      "content": "AI 是计算机系统的功能，用于模拟类似于人的认知功能（如学习和解决问题）。 · 计算机系统使用数学和逻辑来模拟人类用于学习新信息并进行决策的推理过程。 · 人工智能计算机系统根据现有数据中的模式进行预测或执行操作，然后可以从其错误中学习以提高准确性。成熟的 AI 能够以极快的速度准确处理新信息，这使得其对于复杂的场景（例如无人驾驶汽车、图像识别程序和虚拟助理）非常有用。",
+      "source": "azure.microsoft.com"
+    },
+    {
+      "title": "OpenAI",
+      "url": "https://openai.com/",
+      "content": "OpenAI · What can I help with? Search with ChatGPTTalk with ChatGPTResearchSoraMore · Introducing GPT-5.4 · Product16 min read · Introducing GPT-5.4 · Product16 min read · Scaling AI for everyone · Company5 min read · GPT-5.3 Instant: Smoother, more useful everyday conversations ·",
+      "source": "openai.com"
+    },
+    {
+      "title": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "content": "ChatGPT is <strong>your AI chatbot for everyday use</strong>. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.",
+      "source": "chatgpt.com"
+    },
+    {
+      "title": "ChatGPT - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en_US",
+      "content": "· Instant answers—Get recipe suggestions when you only have a few ingredients. Join hundreds of millions of users and try the app captivating the world. Download ChatGPT today. Terms of service &amp; privacy policy: https://openai.com/policies/terms-of-use https://openai.com/policies/privacy-policy",
+      "source": "play.google.com"
+    },
+    {
+      "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions | TechCrunch",
+      "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+      "content": "On Thursday, OpenAI released <strong>GPT-5.4, a new foundation model billed as “our most capable and efficient frontier model for professional work</strong>.” In addition to the standard version, GPT-5.4 is also available as a reasoning model (GPT-5.4 Thinking) ...",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "What Is OpenAI? Everything You Need to Know | Coursera",
+      "url": "https://www.coursera.org/articles/what-is-openai",
+      "content": "In 2018, OpenAI released the concept of a generative pre-trained transformer (GPT), which is <strong>a neural network (a machine learning model) that simulates the human brain and is trained on data sets</strong>.",
+      "source": "www.coursera.org"
+    },
+    {
+      "title": "Home \\ Anthropic",
+      "url": "https://www.anthropic.com/",
+      "content": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "source": "www.anthropic.com"
+    },
+    {
+      "title": "Claude",
+      "url": "https://claude.ai/login",
+      "content": "Claude is <strong>Anthropic&#x27;s AI, built for problem solvers</strong>. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+      "source": "claude.ai"
+    },
+    {
+      "title": "Claude by Anthropic App - App Store",
+      "url": "https://apps.apple.com/us/app/claude-by-anthropic/id6473753684",
+      "content": "Claude helps you: ▶ Develop and ... accurate, and collaborative. Built by Anthropic, <strong>an AI research company dedicated to building safe and dependable AI tools</strong>....",
+      "source": "apps.apple.com"
+    },
+    {
+      "title": "Claude (language model) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+      "content": "Claude is <strong>a series of large language models developed by Anthropic and first released in 2023</strong>. It is named after Claude Shannon, who pioneered information theory. Claude is used for software development via Claude Code. The use of Claude by US federal agencies is being phased out after Anthropic ...",
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Anthropic to open Sydney office as Claude usage booms",
+      "url": "https://www.forbes.com.au/news/innovation/anthropic-to-open-sydney-office-as-claude-usage-booms/",
+      "content": "Anthropic announced on March 10 it will open a Sydney office in the coming weeks. An executive team visit to Australia is planned for late March to formalize partnerships and meet customers and policymakers. The expansion comes as Claude is experiencing a notable jump in global usage.",
+      "source": "www.forbes.com.au"
+    },
+    {
+      "title": "DeepSeek",
+      "url": "https://www.deepseek.com/en/",
+      "content": "<strong>DeepSeek</strong>, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+      "source": "www.deepseek.com"
+    },
+    {
+      "title": "DeepSeek AI: R1 Reasoning, API Integration & Local Deployment",
+      "url": "https://deepseek.ai/",
+      "content": "Independent guide to <strong>DeepSeek</strong> AI. Learn how to deploy <strong>DeepSeek</strong>-R1 locally, integrate the API, and compare <strong>DeepSeek</strong>-V3 vs ChatGPT. Expert resources for coding and reasoning.",
+      "source": "deepseek.ai"
+    },
+    {
+      "title": "DeepSeek - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/DeepSeek",
+      "content": "Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd., doing business as DeepSeek, is a <strong>Chinese artificial intelligence (AI) company that develops large language models (LLMs).</strong> Based in Hangzhou, Zhejiang, DeepSeek is owned and funded by the Chinese hedge fund High-Flyer.",
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "DeepSeek - AI Assistant App - App Store",
+      "url": "https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349",
+      "content": "Experience seamless interaction with <strong>DeepSeek</strong>&#x27;s official AI assistant for free! Powered by <strong>DeepSeek</strong>’s latest flagship model, it delivers faster responses and more powerful features to help you solve problems and live more efficiently.",
+      "source": "apps.apple.com"
+    },
+    {
+      "title": "DeepSeek",
+      "url": "https://chat.deepseek.com/",
+      "content": "Chat with <strong>DeepSeek</strong> AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（<strong>DeepSeek</strong>）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
+      "source": "chat.deepseek.com"
+    },
+    {
+      "title": "MiniMax",
+      "url": "https://www.minimaxi.com/",
+      "content": "自2022年初成立以来，我...模型，<strong>具备强大的代码和 Agent 能力，以及超长上下文处理能力，能够理解、生成并整合包括文本、音频、图像、视频和音乐在内的多种模态</strong>。...",
+      "source": "www.minimaxi.com"
+    },
+    {
+      "title": "MiniMax",
+      "url": "https://help.aliyun.com/zh/model-studio/minimax-llm-api",
+      "content": "<strong>Minimax-abab6.5系列模型</strong>是MiniMax推出的万亿参数大语言模型，可以很好的满足复杂生产力以及多语言人设对话场景需求，最大支持245k上下文窗口，在知识、推理、数学、编程、指令遵循等...",
+      "source": "help.aliyun.com"
+    },
+    {
+      "title": "国产五大模型之一MiniMax 使用国内首个MOE架构_uni-moe-CSDN博客",
+      "url": "https://blog.csdn.net/m0_58966968/article/details/139093539",
+      "content": "Minimax使用的大语言模型... 模型将覆盖不同学习者（专家）的不同输入数据。2024 年 4 月 17 日，MiniMax 正式推出<strong>abab 6.5 系列模型</strong>。abab 6.5 系列包含两个模型：abab 6.5 和 abab 6.5s。abab 6.5 包含万亿参数，支持 200k tokens ...",
+      "source": "blog.csdn.net"
+    },
+    {
+      "title": "深度解读MiniMax-01：闪电注意力+超长上下文重塑大语言模型性能 - 知乎",
+      "url": "https://zhuanlan.zhihu.com/p/19232154479",
+      "content": "本文提出 MiniMax-01 系列模型，其核心为闪电注意力及高效缩放技术。结合 MoE 创造出大规模参数模型，并开发优化策略与计算 - 通信重叠技术，实现高效训练和推理。MiniMax-Text-01 训练上下文窗口可达 100 万标记，推理时可外推至 400 万标记，MiniMax-VL-01 经额外视觉语言训练具备视觉理解能力。实验表明，模型在标准和内部基准测试中性能与 GPT-4o、Claude-3.5-Sonnet 等相当，长上下文窗口优势显著，同时公开模型及 API。",
+      "source": "zhuanlan.zhihu.com"
+    },
+    {
+      "title": "上海基础大模型MiniMax首次开源_上海国际人才网",
+      "url": "https://www.sh-italent.com/Article/202501/202501160007.shtml",
+      "content": "1月15日，上海基础大模型企业上海稀宇科技有限公司（以下简称“MiniMax”）正式发布了全新MiniMax-01系列模型，并开源了MiniMax-o1系列两个模型的完整权重，以促进技术创新、加速应用落地、实现开放合作、弥合智能鸿沟。该系列包括基础语言大模型MiniMax-Text-01和视觉多模态大模型MiniMax-VL-01（论文链接附后）。",
+      "source": "www.sh-italent.com"
+    },
+    {
+      "title": "智谱AI开放平台",
+      "url": "https://bigmodel.cn/",
+      "content": "We&#x27;re sorry but <strong>智谱AI</strong>开放平台 doesn&#x27;t work properly without JavaScript enabled. Please enable it to continue",
+      "source": "bigmodel.cn"
+    },
+    {
+      "title": "智谱AI",
+      "url": "https://www.zhipuai.cn/en",
+      "content": "At Z.ai, we are developing safe and beneficial Artificial General Intelligence to help solve humanity&#x27;s most complex challenges. GLM-4.7 is our newflagship model designed to unify frontier reasonin",
+      "source": "www.zhipuai.cn"
+    },
+    {
+      "title": "Z.ai - Free AI Chatbot & Agent powered by GLM-5 & GLM-4.7",
+      "url": "https://chat.z.ai/",
+      "content": "Meet Z.ai, your free AI-powered assistant. Build websites, create slides, analyze data, and get instant answers. Fast, smart, and reliable, powered by GLM-5.",
+      "source": "chat.z.ai"
+    },
+    {
+      "title": "智谱 GLM 大模型 | Immersive Translate",
+      "url": "https://immersivetranslate.com/en/docs/services/zhipu/",
+      "content": "BigModel 是智谱 AI 的 API 开放平台品牌，致力于为企业和开发者提供便利的 GLM 大模型接入服务、丰富的大模型能力场景、专业的大模型解决方案，助力开发者与企业共同探索大模型落地应用的未来。",
+      "source": "immersivetranslate.com"
+    },
+    {
+      "title": "內地「AI六小虎」智譜全新AI模型成本及費用比DeepSeek低",
+      "url": "https://hk.finance.yahoo.com/news/內地-ai六小虎-智譜全新ai模型-成本及費用比deepseek低-073418695.html",
+      "content": "Oops, something went wrong · Sign in to access your portfolio",
+      "source": "hk.finance.yahoo.com"
+    },
+    {
+      "title": "What are AI agents? Definition, examples, and types | Google Cloud",
+      "url": "https://cloud.google.com/discover/what-are-ai-agents",
+      "content": "AI agents are software systems that use AI to pursue goals and complete tasks on behalf of users. Learn more with Google Cloud.",
+      "source": "cloud.google.com"
+    },
+    {
+      "title": "AI Agent(智能体) 教程 | 菜鸟教程",
+      "url": "https://www.runoob.com/ai-agent/ai-agent-tutorial.html",
+      "content": "AI Agent（人工智能代理） 是一个<strong>能够感知环境、进行决策并执行行动，以达成特定目标的智能软件实体</strong>，它不仅仅是回答问题的聊天机器人，更是能够动手做事的智能执行者。 · Agent = LLM (大脑) + Planning (规划) + Tool use (执行) ...",
+      "source": "www.runoob.com"
+    },
+    {
+      "title": "GitHub - datawhalechina/hello-agents: 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "content": "Hello-Agents 是 Datawhale 社区的系统性智能体学习教程。如今 Agent 构建主要分为两派，一派是 Dify，Coze，n8n 这类软件工程类 Agent，其本质是流程驱动的软件开发，LLM 作为数据处的后端；另一派则是 AI 原生的 Agent，即真正以 AI 驱动的 Agent。本教程旨在带领大家深入理解并构建后者——真正的 AI Native Agent。教程将带领你穿透框架表象，从智能体的核心原理出发，深入其核心架构，理解其经典范式，并最终亲手构建起属于自己的多智能体应用。我们相信，最好的学习方式就是动手实践。希望这本教程能成为你探索智能体世界的起点，能够从一名大语言模型的&quot;使用者&quot;，蜕变为一名智能体系统的&quot;构建者&quot;。",
+      "source": "github.com"
+    },
+    {
+      "title": "适用于个人和企业的 AI 智能体 | Microsoft Copilot",
+      "url": "https://www.microsoft.com/zh-cn/microsoft-365-copilot/agents",
+      "content": "传统的 AI 模型可帮助个人提高效率。但是，AI 智能体可以执行业务流程。它们类型多样，从简单的提示答复型智能体到可以从头到尾完成整个工作流的完全自主的高级智能体，一应俱全。智能体可以思考或推理、记忆、训练甚至知道何时寻求帮助。这使得它们成为适合各种业务应用场景的通用工具。",
+      "source": "www.microsoft.com"
+    },
+    {
+      "title": "AI Agent智能体实战课_AI Agent_GPT_智能体_FastGPT_AutoGen_大模型_RAG_HuggingFace_ChatGLM-极客时间",
+      "url": "https://time.geekbang.org/course/intro/100775901",
+      "content": "极客时间推出的AI Agent智能体实战课是帮助互联网从业者学习AI Agent、GPT、智能体、FastGPT、AutoGen、大模型、RAG、HuggingFace、ChatGLM的在线课程，极客时间是面向IT领域的知识服务产品，致力于帮助用户轻松学习，高效学习。",
+      "source": "time.geekbang.org"
+    }
+  ],
+  "aiSummary": {
+    "summary": "1. What is Artificial Intelligence (AI)? | Google Cloud\n\n2. 人工智能\n\n3. What Is Artificial Intelligence (AI)? | IBM\n\n4. 人工智能 - 维基百科，自由的百科全书\n\n5. 什么是人工智能？ | Microsoft Azure",
+    "highlights": [
+      {
+        "title": "What is Artificial Intelligence (AI)? | Google Cloud",
+        "url": "https://cloud.google.com/learn/what-is-artificial-intelligence",
+        "source": "cloud.google.com"
+      },
+      {
+        "title": "人工智能",
+        "url": "https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/9180",
+        "source": "baike.baidu.com"
+      },
+      {
+        "title": "What Is Artificial Intelligence (AI)? | IBM",
+        "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+        "source": "www.ibm.com"
+      },
+      {
+        "title": "人工智能 - 维基百科，自由的百科全书",
+        "url": "https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+        "source": "zh.wikipedia.org"
+      },
+      {
+        "title": "什么是人工智能？ | Microsoft Azure",
+        "url": "https://azure.microsoft.com/zh-cn/resources/cloud-computing-dictionary/what-is-artificial-intelligence",
+        "source": "azure.microsoft.com"
+      }
+    ]
+  }
+}
