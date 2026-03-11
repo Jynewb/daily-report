@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-11T02:22:53.755Z",
+  "timestamp": "2026-03-11T08:51:02.096Z",
   "news": [
     {
       "title": "What is Artificial Intelligence (AI)? | Google Cloud",
@@ -20,16 +20,16 @@
       "source": "www.ibm.com"
     },
     {
-      "title": "人工智能 - 维基百科，自由的百科全书",
-      "url": "https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
-      "content": "人工智能的研究是高度技术性和专业的，各分支领域都是深入且各不相通的，因而涉及范围极广。人工智能的研究可以分为几个技术问题。其分支领域主要集中在解决具体问题，其中之一是，如何使用各种不同的工具完成特定的应用程序。 · AI的核心问题包括建构能够跟人类相似，甚至超卓的推理、知识、计划、学习、交流、感知、移动 、移物、使用工具和操控机械的能力等。通用人工智能（AGI）目前仍然是该领域的长远目标。目前弱人工智能已经有",
-      "source": "zh.wikipedia.org"
-    },
-    {
       "title": "什么是人工智能？ | Microsoft Azure",
       "url": "https://azure.microsoft.com/zh-cn/resources/cloud-computing-dictionary/what-is-artificial-intelligence",
       "content": "AI 是计算机系统的功能，用于模拟类似于人的认知功能（如学习和解决问题）。 · 计算机系统使用数学和逻辑来模拟人类用于学习新信息并进行决策的推理过程。 · 人工智能计算机系统根据现有数据中的模式进行预测或执行操作，然后可以从其错误中学习以提高准确性。成熟的 AI 能够以极快的速度准确处理新信息，这使得其对于复杂的场景（例如无人驾驶汽车、图像识别程序和虚拟助理）非常有用。",
       "source": "azure.microsoft.com"
+    },
+    {
+      "title": "人工智能 - 维基百科，自由的百科全书",
+      "url": "https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "content": "人工智能的研究是高度技术性和专业的，各分支领域都是深入且各不相通的，因而涉及范围极广。人工智能的研究可以分为几个技术问题。其分支领域主要集中在解决具体问题，其中之一是，如何使用各种不同的工具完成特定的应用程序。 · AI的核心问题包括建构能够跟人类相似，甚至超卓的推理、知识、计划、学习、交流、感知、移动 、移物、使用工具和操控机械的能力等。通用人工智能（AGI）目前仍然是该领域的长远目标。目前弱人工智能已经有",
+      "source": "zh.wikipedia.org"
     },
     {
       "title": "OpenAI",
@@ -38,28 +38,28 @@
       "source": "openai.com"
     },
     {
-      "title": "ChatGPT",
-      "url": "https://chatgpt.com/",
-      "content": "ChatGPT is <strong>your AI chatbot for everyday use</strong>. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.",
-      "source": "chatgpt.com"
+      "title": "GMI Cloud Integrates OpenAI GPT-5.4 to Strengthen AI Infrastructure Offering - TipRanks.com",
+      "url": "https://www.tipranks.com/news/private-companies/gmi-cloud-integrates-openai-gpt-5-4-to-strengthen-ai-infrastructure-offering",
+      "content": "The post characterizes GPT-5.4 as OpenAI’s most powerful model and notes that it is presented as reclaiming a top ranking on an Intelligence Index, citing improvements in reasoning capabilities.",
+      "source": "www.tipranks.com"
     },
     {
-      "title": "ChatGPT - Apps on Google Play",
-      "url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en_US",
-      "content": "· Instant answers—Get recipe suggestions when you only have a few ingredients. Join hundreds of millions of users and try the app captivating the world. Download ChatGPT today. Terms of service &amp; privacy policy: https://openai.com/policies/terms-of-use https://openai.com/policies/privacy-policy",
-      "source": "play.google.com"
+      "title": "OpenAI’s New GPT‑5.4 Surpasses Human Benchmark in Desktop Navigation and Reasoning Tests | Extremetech",
+      "url": "https://www.extremetech.com/computing/openais-new-gpt54-surpasses-human-benchmark-in-desktop-navigation-and-reasoning",
+      "content": "OpenAI has introduced its latest frontier model, GPT‑5.4, to ChatGPT, Codex, and the API.",
+      "source": "www.extremetech.com"
+    },
+    {
+      "title": "OpenAI GPT-5.4 Now Available on AgentX | AgentX - AI Agent Automation Platform",
+      "url": "https://www.agentx.so/mcp/blog/openai-gpt-5-4-now-available-on-agentx",
+      "content": "OpenAI has officially released <strong>GPT-5.4, their most capable and efficient frontier model for professional work</strong>, and it&#x27;s now available through the AgentX platform. This breakthrough release unlocks unprecedented possibilities for AI agents and ...",
+      "source": "www.agentx.so"
     },
     {
       "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions | TechCrunch",
       "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
       "content": "On Thursday, OpenAI released <strong>GPT-5.4, a new foundation model billed as “our most capable and efficient frontier model for professional work</strong>.” In addition to the standard version, GPT-5.4 is also available as a reasoning model (GPT-5.4 Thinking) ...",
       "source": "techcrunch.com"
-    },
-    {
-      "title": "What Is OpenAI? Everything You Need to Know | Coursera",
-      "url": "https://www.coursera.org/articles/what-is-openai",
-      "content": "In 2018, OpenAI released the concept of a generative pre-trained transformer (GPT), which is <strong>a neural network (a machine learning model) that simulates the human brain and is trained on data sets</strong>.",
-      "source": "www.coursera.org"
     },
     {
       "title": "Home \\ Anthropic",
@@ -86,10 +86,10 @@
       "source": "en.wikipedia.org"
     },
     {
-      "title": "Anthropic to open Sydney office as Claude usage booms",
-      "url": "https://www.forbes.com.au/news/innovation/anthropic-to-open-sydney-office-as-claude-usage-booms/",
-      "content": "Anthropic announced on March 10 it will open a Sydney office in the coming weeks. An executive team visit to Australia is planned for late March to formalize partnerships and meet customers and policymakers. The expansion comes as Claude is experiencing a notable jump in global usage.",
-      "source": "www.forbes.com.au"
+      "title": "Anthropic announces a multi-agent code review tool for Claude Code",
+      "url": "https://www.varindia.com/news/anthropic-announces-a-multi-agent-code-review-tool-for-claude-code",
+      "content": "Anthropic has launched Code Review in Claude Code, a new multi-agent system that tries to catch bugs before a human reviewer even sees the code",
+      "source": "www.varindia.com"
     },
     {
       "title": "DeepSeek",
@@ -146,10 +146,10 @@
       "source": "zhuanlan.zhihu.com"
     },
     {
-      "title": "上海基础大模型MiniMax首次开源_上海国际人才网",
-      "url": "https://www.sh-italent.com/Article/202501/202501160007.shtml",
-      "content": "1月15日，上海基础大模型企业上海稀宇科技有限公司（以下简称“MiniMax”）正式发布了全新MiniMax-01系列模型，并开源了MiniMax-o1系列两个模型的完整权重，以促进技术创新、加速应用落地、实现开放合作、弥合智能鸿沟。该系列包括基础语言大模型MiniMax-Text-01和视觉多模态大模型MiniMax-VL-01（论文链接附后）。",
-      "source": "www.sh-italent.com"
+      "title": "开源首秀就放大招！MiniMax重磅更新两款大模型，业内首次大规模实现线性注意力机制 - InfoQ",
+      "url": "https://www.infoq.cn/article/nltymm3c7qkjy1czhmvu",
+      "content": "而中国大模型的频频“刷屏”，也将为 Agent 的落地和爆发提供更多可能性。 · 近日，MiniMax 宣布开源两款模型：<strong>基础语言大模型 MiniMax-Text-01 和视觉多模态大模型 MiniMax-VL-01</strong>。",
+      "source": "www.infoq.cn"
     },
     {
       "title": "智谱AI开放平台",
@@ -160,7 +160,7 @@
     {
       "title": "智谱AI",
       "url": "https://www.zhipuai.cn/en",
-      "content": "At Z.ai, we are developing safe and beneficial Artificial General Intelligence to help solve humanity&#x27;s most complex challenges. GLM-4.7 is our newflagship model designed to unify frontier reasonin",
+      "content": "New-Generation AI Model Full-Stack Technology Ecosystem · On core agentic programming benchmarks such as SWE-bench Verified and Terminal Bench 2.0, GLM-5 reaches open-source SOTA performance, on par with Claude Opus 4.5",
       "source": "www.zhipuai.cn"
     },
     {
@@ -200,20 +200,20 @@
       "source": "github.com"
     },
     {
+      "title": "读懂AI Agent：基于大模型的智能体（类clawdbot的框架） - 知乎",
+      "url": "https://zhuanlan.zhihu.com/p/657937696",
+      "content": "AI Agent也可以称为“智能...理”，<strong>旨在大模型技术驱动下，让人们以自然语言为交互方式高自动化地执行和处理专业或繁复的工作任务，从而极大程度释放人员精力</strong>。...",
+      "source": "zhuanlan.zhihu.com"
+    },
+    {
       "title": "适用于个人和企业的 AI 智能体 | Microsoft Copilot",
       "url": "https://www.microsoft.com/zh-cn/microsoft-365-copilot/agents",
       "content": "传统的 AI 模型可帮助个人提高效率。但是，AI 智能体可以执行业务流程。它们类型多样，从简单的提示答复型智能体到可以从头到尾完成整个工作流的完全自主的高级智能体，一应俱全。智能体可以思考或推理、记忆、训练甚至知道何时寻求帮助。这使得它们成为适合各种业务应用场景的通用工具。",
       "source": "www.microsoft.com"
-    },
-    {
-      "title": "AI Agent智能体实战课_AI Agent_GPT_智能体_FastGPT_AutoGen_大模型_RAG_HuggingFace_ChatGLM-极客时间",
-      "url": "https://time.geekbang.org/course/intro/100775901",
-      "content": "极客时间推出的AI Agent智能体实战课是帮助互联网从业者学习AI Agent、GPT、智能体、FastGPT、AutoGen、大模型、RAG、HuggingFace、ChatGLM的在线课程，极客时间是面向IT领域的知识服务产品，致力于帮助用户轻松学习，高效学习。",
-      "source": "time.geekbang.org"
     }
   ],
   "aiSummary": {
-    "summary": "1. What is Artificial Intelligence (AI)? | Google Cloud\n\n2. 人工智能\n\n3. What Is Artificial Intelligence (AI)? | IBM\n\n4. 人工智能 - 维基百科，自由的百科全书\n\n5. 什么是人工智能？ | Microsoft Azure",
+    "summary": "1. What is Artificial Intelligence (AI)? | Google Cloud\n\n2. 人工智能\n\n3. What Is Artificial Intelligence (AI)? | IBM\n\n4. 什么是人工智能？ | Microsoft Azure\n\n5. 人工智能 - 维基百科，自由的百科全书",
     "highlights": [
       {
         "title": "What is Artificial Intelligence (AI)? | Google Cloud",
@@ -231,14 +231,14 @@
         "source": "www.ibm.com"
       },
       {
-        "title": "人工智能 - 维基百科，自由的百科全书",
-        "url": "https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
-        "source": "zh.wikipedia.org"
-      },
-      {
         "title": "什么是人工智能？ | Microsoft Azure",
         "url": "https://azure.microsoft.com/zh-cn/resources/cloud-computing-dictionary/what-is-artificial-intelligence",
         "source": "azure.microsoft.com"
+      },
+      {
+        "title": "人工智能 - 维基百科，自由的百科全书",
+        "url": "https://zh.wikipedia.org/zh-cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+        "source": "zh.wikipedia.org"
       }
     ]
   }
